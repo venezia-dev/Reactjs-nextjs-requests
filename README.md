@@ -12,3 +12,4 @@ App de ejemplo de una peticion a una api => https://reqres.in/api/users
 
 Con React.JS y Next.JS
 
+![Image description](screen.png)
